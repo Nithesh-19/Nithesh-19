@@ -171,6 +171,7 @@ Currently looking for **entry-level opportunities** in:
 * Java Development
 * Java Full Stack Development
 * Backend Development
+* Frontend Development
 * Spring Boot Development
 * Software Development
 
