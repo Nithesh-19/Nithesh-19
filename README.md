@@ -1,6 +1,11 @@
-# NITHESH K
+<!-- ================= ANIMATED HEADER ================= -->
+<div align="center">
 
-### Java Full Stack Developer | Building Practical & User-Friendly Applications
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:11998e,100:38ef7d&height=220&section=header&text=NITHESH%20K&fontSize=64&fontAlignY=38&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=22" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38EF7D&center=true&vCenter=true&width=650&lines=Building+Practical+%26+User-Friendly+Applications;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+MySQL;Learning+Backend+%26+System+Design;Open+to+Entry-Level+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 📍 Chennai, India
 
@@ -16,9 +21,13 @@
   </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=Nithesh-19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-## 👨‍💻 About Me
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 👨‍💻 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Computer Science Engineering graduate focused on **Java Full Stack Development**.
 
@@ -34,7 +43,7 @@ Currently focusing on:
 * Backend Development
 * Git & GitHub
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -86,7 +95,7 @@ Currently focusing on:
 
 **Git • GitHub • IntelliJ IDEA • VS Code • Postman**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -142,7 +151,7 @@ A collaborative computer vision project developed with batchmates for real-time 
 * Intrusion detection
 * Computer vision-based monitoring
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📚 Currently Learning
 
@@ -154,8 +163,6 @@ A collaborative computer vision project developed with batchmates for real-time 
 * Backend Architecture
 * System Design Fundamentals
 * Git & GitHub
-
----
 
 ## 🎯 Career Focus
 
@@ -169,7 +176,7 @@ Currently looking for **entry-level opportunities** in:
 
 Interested in building reliable applications, learning new technologies, and growing as a software developer.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Connect With Me
 
@@ -179,6 +186,13 @@ Interested in building reliable applications, learning new technologies, and gro
 
 💻 **GitHub:** https://github.com/Nithesh-19
 
----
+<!-- ================= ANIMATED FOOTER ================= -->
+<div align="center">
 
-### 💡 Build • Learn • Improve
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=F7B93E&center=true&vCenter=true&width=400&lines=Build+%F0%9F%94%A8;Learn+%F0%9F%93%96;Improve+%F0%9F%9A%80" alt="Build Learn Improve" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,50:11998e,100:0f2027&height=120&section=footer" width="100%" />
+
+</div>
